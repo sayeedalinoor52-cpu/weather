@@ -1,0 +1,6 @@
+{
+  "name": "Chaltia Weather",
+  "description": "Real-time weather conditions, metrics, alerts, and 7-day forecast for Chaltia, Berhampore, Murshidabad, West Bengal, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
